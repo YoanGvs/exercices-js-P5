@@ -1,28 +1,31 @@
 header {
+    box-shadow: 2px 5px 10px rgba(204, 204, 204, 1);
     background-color: #FFCC99;
     text-align: center;
     font-weight: bold;
-    box-shadow: 0 4px 2px -2px gray;
+    
 }
 
 main {
     background-color: #E6F2FF;
-    margin: 20px;
     display: flex;
+
 }
 
 aside {
     background-color: #B3D9FF;
     flex: 1;
     border: 1px solid #CCC;
+
 }
 
 section {
     flex: 3;
+    margin: 20px;
 }
 
 footer {
     background-color: #99CC99;
     border: 1px solid #CCC;
-    box-shadow: 0 4px 2px -2px gray;
+    box-shadow: rgb(128, 128, 128) 0px 4px 2px -2px;
 }
