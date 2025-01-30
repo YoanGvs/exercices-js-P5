@@ -1,5 +1,5 @@
 header {
-    box-shadow: 2px 5px 10px rgba(204, 204, 204, 1);
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
     background-color: #FFCC99;
     text-align: center;
     font-weight: bold;
@@ -27,5 +27,5 @@ section {
 footer {
     background-color: #99CC99;
     border: 1px solid #CCC;
-    box-shadow: rgb(128, 128, 128) 0px 4px 2px -2px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
 }
